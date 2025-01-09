@@ -1,6 +1,6 @@
 # OpenUEM - An Open Source Unified Endpoint Manager
 
-Docs are located in [https://openuem.eu](https://openuem.eu)
+Docs are located at [https://openuem.eu](https://openuem.eu)
 
 OpenUEM is an Open Source Unified Endpoint Manager that lets you manage your IT assets thanks to its agents.
 
