@@ -10,7 +10,7 @@ OpenUEM's source code is open-source (Apache 2.0 License) so you can contribute 
 
 ## 🚀 Fund a Feature program
 
-If you wish to prioritize the inclusion of new features in the project, you can use the fund a feature program:
+If your company/organization wish to prioritize the inclusion of new features in the project, you can use the fund a feature program:
 - For each feature, a feasibility study for integration into the project would be conducted, along with a budget outlining the hours required for development, its estimated cost, and
 delivery timeframe.
 - Once the budget is accepted, a contract would be signed between both parties, specifying the scope of work, applicable legislation, and payment terms.
