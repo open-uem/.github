@@ -28,3 +28,9 @@ We're building a community in [Discord](https://discord.com/invite/UQNBuNej5u) w
 
 While I truly believe in Open Source and I enjoy providing help to others, if you ever found this project extremely helpful and you want to send me something as a gift (you don't have to but you know 😄) here you have my [Amazon Wishlist](https://www.amazon.es/hz/wishlist/ls/34678YVFGIAX5?ref_=wl_share)
 
+## 🏅 Awards
+
+January 6, 2026. OpenUEM has been recognized with a Rising Star award by SourceForge. This honor is awarded only to select projects that have reached significant milestones in terms of downloads and user engagement from the SourceForge community.
+
+<img width="150" height="150" alt="SourceForge Rising Star" src="https://github.com/user-attachments/assets/178295a4-e11a-4fe7-bda6-c7a8467c3eed" />
+
